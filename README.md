@@ -2,6 +2,7 @@
 #
 
 - Técnico em Informática - CEFET-MG
+- Graduando em Ciência da Computação - Universidade Federal de Lavras
 
 ##
 **Languages and Tools**
